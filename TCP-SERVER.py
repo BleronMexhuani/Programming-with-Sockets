@@ -83,7 +83,7 @@ def gcf(nr1,nr2):
         (nr1, nr2) = (nr2, nr1 % nr2)
     return nr1
 
-#metodat extra
+
 def decToBinary(number):
     binaryNum=[0]*number
     i=0
